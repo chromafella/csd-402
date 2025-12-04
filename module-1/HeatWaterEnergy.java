@@ -1,5 +1,8 @@
 //Brennan Cheatwood
 //CSD-402 - M1 Programming Assignment
+//
+//https://github.com/chromafella/csd-402
+//
 
 import java.util.Scanner;
 
